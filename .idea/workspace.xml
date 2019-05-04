@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="311e1ae0-ab30-422a-9b15-92db711e5c11" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="4">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-488738512">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/model/user.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/routes.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/pages/setupUser.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>new</find>
+      <find>AppState</find>
+      <find>copy</find>
+      <find>store</find>
+      <find>map</find>
+      <find>move</find>
+      <find>app</find>
+      <find>NetworkImage</find>
+      <find>appBar</find>
+      <find>shrinkWra</find>
+      <find>ty</find>
+      <find>database</find>
+      <find>flutterLogo</find>
+      <find>border</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/android/key.properties" />
+        <option value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/lib/AddLocationAction.java" />
+        <option value="$PROJECT_DIR$/lib/appState.dart" />
+        <option value="$PROJECT_DIR$/lib/actions.dart" />
+        <option value="$PROJECT_DIR$/lib/reducers.dart" />
+        <option value="$PROJECT_DIR$/lib/reduxmain.dart" />
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/model/user.dart" />
+        <option value="$PROJECT_DIR$/lib/databaseHelper.dart" />
+        <option value="$PROJECT_DIR$/lib/model/balloon.dart" />
+        <option value="$PROJECT_DIR$/lib/utils.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/reduxmain.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/loginscreen.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/splashScreen.dart" />
+        <option value="$PROJECT_DIR$/lib/routes.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/setupUser.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ballloonradarFlutter-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ballloonradarFlutter-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="playing_with" type="58d84e3e:PackageViewProjectNode" />
+              <item name="playing_with" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="routes&#9;FILE&#9;file:///home/rafal/AndroidProjects/playing_with/lib/routes.dart" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/pages" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reduxmain.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/lib/pages/splashScreen.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Dart Command Line App.main.dart" />
+      <item itemvalue="Flutter.reduxmain.dart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.reduxmain.dart" />
+        <item itemvalue="Dart Command Line App.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="311e1ae0-ab30-422a-9b15-92db711e5c11" name="Default" comment="" />
+      <created>1533307424392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533307424392</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.114072494" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Captures" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296146" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7596349" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3995943" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.3296146" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3296146" />
+      <window_info anchor="bottom" id="Logcat" order="10" weight="0.6511156" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.21468298" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.3296146" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Flutter Outline" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/AddLocationAction.java" />
+    <entry file="file://$USER_HOME$/flutter/flutter/bin/cache/pkg/sky_engine/lib/core/iterable.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/src/layer/layer.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/src/layer/polyline_layer.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/src/map/map.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/src/layer/tile_layer.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/src/map/flutter_map_state.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/flutter_map.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_map-0.0.11+1/lib/src/layer/marker_layer.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/ink_well.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/actions.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/redux-3.0.0/lib/src/store.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_redux-0.5.2/lib/flutter_redux.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/appState.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.2/lib/path.dart" />
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="2" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.4.1/lib/path_provider.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/flutter_logo.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/bin/cache/pkg/sky_engine/lib/io/process.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/raised_button.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/text_form_field.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/painting/border_radius.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/material.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/flat_button.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/colors.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/app.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/text_field.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-0.11.1/lib/sqflite.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/widgets/editable_text.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/model/user.g.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/databaseHelper.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/model/balloon.g.dart">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/model/balloon.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/reducers.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/utils.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/painting/edge_insets.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/painting/text_style.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/bin/cache/pkg/sky_engine/lib/ui/text.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/pages/loginscreen.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/pages/reduxmain.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/input_decorator.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/input_border.dart" />
+    <entry file="file://$USER_HOME$/flutter/flutter/packages/flutter/lib/src/material/button.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/pages/splashScreen.dart" />
+    <entry file="file://$PROJECT_DIR$/lib/model/user.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/routes.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/setupUser.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

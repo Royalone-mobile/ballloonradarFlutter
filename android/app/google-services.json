@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "432054018112",
+    "firebase_url": "https://playingwith-898fd.firebaseio.com",
+    "project_id": "playingwith-898fd",
+    "storage_bucket": "playingwith-898fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432054018112:android:190f4c78cfb568f7",
+        "android_client_info": {
+          "package_name": "bednarczuk.com.gitlab.balloonradar_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432054018112-u42irnj6q47mjhiuphveo4656hm4r9i4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bednarczuk.com.gitlab.balloonradar_flutter",
+            "certificate_hash": "963b3a8ef0659ff4faf45554832f5bb5777a6374"
+          }
+        },
+        {
+          "client_id": "432054018112-bgd1rdj080tcsi1uphi21bn55ailmrel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRAJjdnuYYB7sBwyKwekubtLUnliTKQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432054018112-bgd1rdj080tcsi1uphi21bn55ailmrel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432054018112:android:6e53cef46b0ccb48",
+        "android_client_info": {
+          "package_name": "bednarczuk.com.gitlab.playingwith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432054018112-g3mjcccnrjl88i2kv7mjb1kjg0dp74p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bednarczuk.com.gitlab.playingwith",
+            "certificate_hash": "90d129d303972f80d330102334bb201a87c16efb"
+          }
+        },
+        {
+          "client_id": "432054018112-klsuq8gcrmhqb8gedr8mb9o1mmdrp0o0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bednarczuk.com.gitlab.playingwith",
+            "certificate_hash": "4be7935846b6f0c1dedee4685f54392b17f1de62"
+          }
+        },
+        {
+          "client_id": "432054018112-bgd1rdj080tcsi1uphi21bn55ailmrel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRAJjdnuYYB7sBwyKwekubtLUnliTKQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432054018112-bgd1rdj080tcsi1uphi21bn55ailmrel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
